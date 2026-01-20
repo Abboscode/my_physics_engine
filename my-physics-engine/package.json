@@ -1,0 +1,11 @@
+{
+  "name": "my-physics-engine",
+  "version": "1.0.0",
+  "description": "A physics engine from scratch in JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
